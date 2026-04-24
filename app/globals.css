@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right, rgba(28, 6, 227, 0.41), lightblue, rgba(0, 0, 255, 0.381));
+}
+
+main{
+  text-align: center;
+}
+
+p{
+  font-style: italic;
+}
+
